@@ -1,6 +1,6 @@
 {
   "author": {
-    "name": "S Anand <s.anand@gramener.com>"
+    "name": "S Anand <root.node@gmail.com>"
   },
   "dependencies": {
     "htmlparser2": "3"
@@ -27,11 +27,11 @@
   "name": "eslint-plugin-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gramener/eslint-plugin-template.git"
+    "url": "git+https://github.com/sanand0/eslint-plugin-template.git"
   },
   "scripts": {
     "pretest": "eslint *.js",
     "test": "mocha"
   },
-  "version": "0.7.0"
+  "version": "0.7.2"
 }
